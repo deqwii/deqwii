@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deqwii
-- 👀 I’m interested in many things, at the moment I am interesting in learning how to use code to built cool things!
+- 👀 I’m interested in many things, at the moment I am interesting in learning how to use code to build cool things!
 - 🌱 I’m currently learning how to code in Python
 - 📫 How to reach me through GitHub for now 😉
 - 😄 Pronouns: he/him
